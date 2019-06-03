@@ -1,7 +1,7 @@
 # i3blocks-vpnmonitor
 i3blocks vpn management
 
-How to use:
+## How to use:
 
 Place the .sh scripts in /etc/openvpn open them and edit them to use your openvpn file.
 
